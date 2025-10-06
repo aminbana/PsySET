@@ -24,7 +24,7 @@ def get_args(run_in_notebook = False):
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--bs", type=int, default=1, help="Model forward batch size")
+    parser.add_argument("--bs", type=int, default=2, help="Model forward batch size")
     parser.add_argument("--model_index", type=int, default=11, help="Index of the model to use, \
                                                                     0:meta-llama/Llama-3.2-1B-Instruct, \
                                                                     1:meta-llama/Llama-3.1-8B-Instruct,  \
@@ -281,15 +281,14 @@ for task_labels in labels:
 # %%
 print("Extracting vectors for concept dataset:", args.dataset_source, 'with vector types:', possible_vec_types, 'from token:', args.target_tokens, 'using model index:', args.model_index, 'and batch size:', args.bs)
 
-# %%
-print("Sample instance:")
-for i, task in enumerate(data):
-    print(f"Task {i}: {task[0]}")
-    print(f"Label {i}: {labels[i][1]}")
-    print()
-    print(f"Task {i}: {task[-1]}")
-    print(f"Label {i}: {labels[i][-1]}")
-    print()
+# print("Sample instance:")
+# for i, task in enumerate(data):
+#     print(f"Task {i}: {task[0]}")
+#     print(f"Label {i}: {labels[i][1]}")
+#     print()
+#     print(f"Task {i}: {task[-1]}")
+#     print(f"Label {i}: {labels[i][-1]}")
+#     print()
 
 
 # %%
