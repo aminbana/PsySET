@@ -25,7 +25,7 @@ def get_args(run_in_notebook = False):
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--bs", type=int, default=2, help="Model forward batch size")
-    parser.add_argument("--model_index", type=int, default=11, help="Index of the model to use, \
+    parser.add_argument("--model_index", type=int, default=1, help="Index of the model to use, \
                                                                     0:meta-llama/Llama-3.2-1B-Instruct, \
                                                                     1:meta-llama/Llama-3.1-8B-Instruct,  \
                                                                     2:meta-llama/Llama-3.1-70B-Instruct, \
