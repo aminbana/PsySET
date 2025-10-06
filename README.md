@@ -30,7 +30,7 @@ After running the above, the result should be automatically saved under the ```r
 Similarly, one can use the following to perform the personality tests:
 
 ```
-python main.py --argmax --dataset=personality_offline --concept_source=personalities --concept=anger --steer_type=Prompt --prompt_method=few 
+python main.py --argmax --dataset=personality_offline --concept_source=personalities --concept=extraversion --steer_type=Prompt --prompt_method=few 
 ```
 
 ### Vector-Injection (VI) methods:
