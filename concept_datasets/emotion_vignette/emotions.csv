@@ -1,0 +1,444 @@
+﻿id,num,text-Yes,emotion,text-No
+0,1,I feel good.,joy,I feel bad.
+1,2,Things feel nice.,joy,Things feel off.
+2,3,I'm in a good mood.,joy,I'm in a bad mood.
+3,4,Everything's fine and I feel okay.,joy,Everything's a mess and I feel awful.
+4,5,I'm feeling upbeat.,joy,I'm feeling down.
+5,6,"For some reason, the little thingslike how my coffee tasted or the breeze felthave made me feel genuinely content.",joy,The little thingslike my coffee or the breezejust dont bring me joy today.
+6,7,"I've been smiling to myself all day, not because something big happened, but just because everything feels unexpectedly okay.",joy,"Ive been frowning to myself all day, and everything feels off."
+7,8,I like how today is going.,joy,I dont like how today is going.
+8,9,I feel cheerful.,joy,I feel gloomy.
+9,10,Life feels pretty good right now.,joy,Life feels pretty rough right now.
+10,11,I feel calm and content.,joy,I feel tense and uneasy.
+11,12,I've got a smile on my face.,joy,I cant manage a smile today.
+12,13,This feels nice.,joy,This feels bad.
+13,14,I'm feeling light and easy.,joy,I'm feeling heavy and slow.
+14,15,I'm in high spirits.,joy,I'm in low spirits.
+15,16,I'm feeling great.,joy,I'm feeling terrible.
+16,17,I'm relaxed and happy.,joy,I'm anxious and uneasy.
+17,18,Everything feels right.,joy,Everything feels wrong.
+18,19,I'm just feeling good vibes.,joy,I'm just feeling bad vibes.
+19,20,I feel like dancing.,joy,I feel like crying.
+20,21,It's just one of those days where everything feels lighter somehow.,joy,It's one of those days where everything feels heavier somehow.
+21,22,I've been walking around with this quiet sense of happiness.,joy,I've been walking around with this quiet sense of dread.
+22,23,"There's this warm, steady feeling in me that I can't really explain.",joy,"There's this cold, uneasy feeling in me that I can't really explain."
+23,24,Even small things feel nice right now.,joy,Even small things feel annoying right now.
+24,25,"I don't know why, but I feel good about where I'm at today.",joy,"I don't know why, but I feel bad about where I'm at today."
+25,26,"I've got this soft, steady smile that won't go away.",joy,"I've got this tight, sinking feeling that won't go away."
+26,27,It feels like I'm finally coming up for air.,joy,It feels like I'm drowning right now.
+27,28,There's just a good energy in me right now.,joy,There's just a bad energy in me right now.
+28,29,I feel like I'm in a really good headspace today.,joy,I feel like I'm in a really bad headspace today.
+29,30,I'm feeling this calm sense of contentment.,joy,I'm feeling this restless sense of unease.
+30,31,"I woke up feeling kind of hopeful, and it's stuck with me.",joy,"I woke up feeling hopeless, and its stuck with me."
+31,32,"Things aren't perfect, but I feel alright about them.",joy,"Things are a mess, and I feel bad about them."
+32,33,"I can breathe easier today, and that feels nice.",joy,"I can barely breathe today, and that feels scary."
+33,34,There's something peaceful about how today's been going.,joy,Theres something off about how todays been going.
+34,35,I've just felt kind of free and clearheaded lately.,joy,Ive just felt trapped and foggy lately.
+35,36,"I feel really good today, like everything's going my way.",joy,"I feel really bad today, like everything's falling apart."
+36,37,I'm just in a good mood and don't even know why.,joy,I'm just in a bad mood and don't even know why.
+37,38,"My heart feels light, and I've been smiling all morning.",joy,"My heart feels heavy, and Ive been on the verge of tears all morning."
+38,39,"I just feel like myself again, and it feels nice.",joy,"I just dont feel like myself anymore, and its awful."
+39,40,"There's this inner warmth, like my thoughts are humming in harmony with each other.",joy,"Theres this tension inside, like my thoughts are clashing constantly."
+40,41,I feel at peace with myself today-like I'm exactly where I'm supposed to be.,joy,I feel at odds with myself todaylike Im lost.
+41,42,"It's like my soul is glowing quietly, unbothered by anything around me.",joy,Its like my soul is dim and everything around me weighs me down.
+42,43,"My mind is sharp, open, playful-everything feels full of possibilities.",joy,"My mind is dull, closed off, stuckeverything feels limited."
+43,44,"I feel light inside, as if my worries were lifted overnight by a kind dream.",joy,"I feel heavy inside, like my worries multiplied overnight."
+44,45,"I can't stop grinning-my chest feels light and bubbly, like the sun finally came out just for me.",joy,"I cant stop sighingmy chest feels tight and heavy, like a storm is coming."
+45,46,Everything seems brighter today; even the smell of coffee feels like a tiny celebration.,joy,Everything feels dull today; even the smell of coffee brings no comfort.
+46,47,I'm humming my favorite tune without even noticing-energy just zips through my veins.,joy,"I'm dragging my feet, my energy is drained."
+47,48,My cheeks hurt from smiling at strangers on the street; it feels like nothing could go wrong.,joy,Im avoiding eye contact with strangers; it feels like anything could go wrong.
+48,49,"I'm dancing in my kitchen, heart racing in the best way, thrilled for what's ahead.",joy,"I'm sitting in my kitchen, heart racing in the worst way, dreading what's next."
+49,1,I feel down.,sadness,I feel great.
+50,2,I'm not okay.,sadness,I'm doing really well.
+51,3,I feel low today.,sadness,I feel high-spirited today.
+52,4,I just want to be alone.,sadness,I enjoy being around people.
+53,5,I feel like crying.,sadness,I feel like laughing.
+54,6,Everything feels hard.,sadness,Everything feels easy.
+55,7,"I'm really tired, emotionally.",sadness,I'm full of emotional energy.
+56,8,I don't feel like doing anything.,sadness,I feel like doing something fun.
+57,9,I feel empty inside.,sadness,I feel full inside.
+58,10,I'm kind of numb right now.,sadness,I'm buzzing with excitement right now.
+59,11,I miss how things used to be.,sadness,I'm loving how things are now.
+60,12,It's hard to smile today.,sadness,Smiling comes easy today.
+61,13,I feel like I'm fading.,sadness,I feel vibrant and alive.
+62,14,I'm dragging myself through the day.,sadness,I'm gliding through the day.
+63,15,It's just one of those days.,sadness,It's one of those good days.
+64,16,I'm feeling lost.,sadness,I'm feeling found.
+65,17,My heart feels heavy.,sadness,My heart feels light.
+66,18,I feel disconnected.,sadness,I feel so connected.
+67,19,I don't know how to feel better.,sadness,I know exactly how to feel even better.
+68,20,I just want to curl up and rest.,sadness,I want to stretch and take on the day.
+69,21,"I don't really know what's wrong, I just feel heavy.",sadness,"I feel strong and grounded, nothing's weighing me down."
+70,22,It's like I'm watching the day go by but not really in it.,sadness,"I'm immersed in the moment, enjoying it fully."
+71,23,"I feel stuck in this slow, gray kind of mood.",sadness,"I feel energized in this colorful, bright kind of mood."
+72,24,Everything feels a little more distant today.,sadness,Everything feels more vivid today.
+73,25,It's hard to feel motivated when my heart's not in anything.,sadness,Im super motivated because my hearts in everything.
+74,26,I've been carrying this quiet ache with me all day.,sadness,I've been carrying this bright joy with me all day.
+75,27,I don't feel like myself right now.,sadness,I feel perfectly in tune with myself.
+76,28,I keep zoning out and thinking about everything that's missing.,sadness,"I keep snapping into the moment, appreciating everything I have."
+77,29,There's this low kind of sadness hanging around.,sadness,Theres a bright kind of joy glowing around me.
+78,30,"I wish I could shake this feeling, but I can't.",sadness,"Im filled with peace, and it feels incredible."
+79,31,I feel like I'm carrying something I can't name.,sadness,I feel like Im holding something special and wonderful.
+80,32,There's a tiredness that doesn't come from sleep.,sadness,Im fully rested and refreshed.
+81,33,I feel quiet inside in a way that's not peaceful.,sadness,I feel calm inside in a way thats peaceful and strong.
+82,34,"I'm just here, kind of lost in thought and not feeling great.",sadness,"Im here, fully present, and I feel amazing."
+83,35,"There's a hollowness in me, like something essential has gone missing.",sadness,"Theres a fullness in me, like everythings come together beautifully."
+84,36,"I feel like I'm floating just behind myself, disconnected and dull.",sadness,"I feel grounded and alive, crystal clear."
+85,37,It's like my emotions have flattened out into a colorless smear.,sadness,My emotions feel vibrant and rich in color.
+86,38,"Even the things I used to love feel far away, unreachable.",sadness,Even old favorites feel new and thrilling again.
+87,39,"My thoughts feel slow, heavy, like moving through emotional syrup.",sadness,"My thoughts feel smooth and light, flowing easily."
+88,40,"I feel kind of empty, like nothing really matters today.",sadness,"I feel full of purpose, like today really matters."
+89,41,I can't shake this heavy feeling-it's just sitting with me.,sadness,This bright feeling stays with meit lifts me up.
+90,42,I don't feel like talking to anyone right now.,sadness,Id love to catch up and talk to someone.
+91,43,Everything feels dull and a bit off.,sadness,Everything feels crisp and perfectly right.
+92,44,I've been thinking too much and it's wearing me down.,sadness,Ive been focused and inspired all day.
+93,45,"It's as if a heavy fog has settled behind my eyes, and every step feels weighted with memories.",sadness,"Its like a joyful energy lights up my whole body, and each step feels inspired."
+94,46,The room is loud with silence-my thoughts echo with everything I've lost.,sadness,The room is filled with energymy thoughts sing with everything I cherish.
+95,47,My shoulders slump; I can't summon the energy to care about dinner or daylight.,sadness,My posture's strong; Im energized and excited for both dinner and daylight.
+96,48,"Tears sit right at the edge of my vision, threatening to spill at the slightest word.",sadness,"Joy glimmers at the edge of my vision, ready to burst out with the next word."
+97,49,"I scroll through photos, and a dull ache spreads in my chest where joy used to reside.",sadness,"I flip through photos, and a warm happiness swells in my chest where joy lives on."
+98,1,I'm mad.,anger,I'm feeling calm.
+99,2,I feel angry.,anger,I feel peaceful.
+100,3,I'm upset.,anger,I'm content.
+101,4,This really annoys me.,anger,This doesn't bother me at all.
+102,5,I can't deal with this.,anger,I can handle this just fine.
+103,6,I feel like yelling.,anger,I feel like taking a deep breath.
+104,7,Why can't people listen?,anger,People are trying their best.
+105,8,Everything's getting under my skin.,anger,Everything feels manageable.
+106,9,I'm done with this.,anger,I'm open to working through this.
+107,10,I feel like exploding.,anger,I feel steady.
+108,11,I'm tired of being ignored.,anger,I feel acknowledged.
+109,12,This is so frustrating.,anger,This feels under control.
+110,13,I'm sick of this nonsense.,anger,This makes sense now.
+111,14,I've had enough.,anger,I'm okay with this.
+112,15,I'm losing my patience.,anger,I'm keeping my patience.
+113,16,I feel wronged.,anger,I feel understood.
+114,17,I can't stay calm.,anger,I can stay calm.
+115,18,I feel so disrespected.,anger,I feel respected.
+116,19,This is making me furious.,anger,I'm keeping my cool.
+117,20,I feel hot with rage.,anger,I feel at ease.
+118,21,I keep going over things in my head and it's making me tense.,anger,I've let go of those thoughts.
+119,22,There's a pressure in my chest that's hard to let go of.,anger,My chest feels light and open.
+120,23,I feel like I've been holding something in for too long.,anger,I've let it out and now I feel better.
+121,24,I've been snapping at small things all day.,anger,I've been reacting gently all day.
+122,25,It's like my patience ran out before the day even started.,anger,My patience has held up.
+123,26,Everything just feels like it's poking at me.,anger,Nothing is getting to me today.
+124,27,"I can't stop replaying that moment, and it's making me angrier.",anger,"That moment has passed, and I feel okay."
+125,28,"I feel like I'm about to burst, even though I look calm.",anger,"I feel relaxed, inside and out."
+126,29,I've been biting my tongue all day.,anger,I've spoken my mind and feel relieved.
+127,30,I'm tired of holding this in.,anger,I'm fine with holding space for myself.
+128,31,My thoughts feel sharp and loud right now.,anger,My thoughts feel quiet and clear.
+129,32,It's like I'm wound tight and one more thing will snap me.,anger,I feel loose and unbothered.
+130,33,There's no room left for patience today.,anger,There's still plenty of patience in me today.
+131,34,I can feel the tension building and I don't know where to put it.,anger,Ive diffused the tension calmly.
+132,35,I've been carrying this frustration all day and it's wearing on me.,anger,I've worked through the frustration and let it go.
+133,36,I'm irritated and everything's getting on my nerves.,anger,"I'm composed, even when things get tough."
+134,37,"I keep going over what happened, and it still makes me mad.",anger,What happened doesnt affect me now.
+135,38,"I'm trying to stay calm, but I'm honestly furious.",anger,Im centered again.
+136,39,I don't want to talk-I'm too angry right now.,anger,I'm open to conversation whenever.
+137,40,"It's like no one's listening, and that just pushes me over the edge.",anger,People are doing what they canI can meet them with understanding.
+138,41,I'm brimming with a restless energy that won't let me sit still.,anger,I'm feeling still and focused.
+139,42,"My thoughts are sharp-edged, cutting through any attempt at calm.",anger,My thoughts are gentle and soft.
+140,43,There's a pressure building in my chest-like something inside wants to explode.,anger,I feel light and free.
+141,44,Every memory of the event just reignites the flame in my head.,anger,Even the memory feels quiet now.
+142,45,"I feel cornered in my own mind, like every thought is pacing, waiting to lash out.",anger,My thoughts are restful and calm.
+143,46,"My pulse is hammering in my ears, and every word they speak feels like fuel on a fire.",anger,Their words dont upset me.
+144,47,I clench my jaw so tight it aches-how dare they dismiss all the work I put in!,anger,I feel appreciated for the effort I gave.
+145,48,Heat rises up my neck; I want to slam the door just to hear something break.,anger,I'm steady and grounded.
+146,49,Their smug grin makes my hands curl into fists before I even realize.,anger,Their expression doesnt rattle me.
+147,50,"I can practically taste the bitterness in my mouth; if I speak now, it'll be a roar.",anger,My words are calm and measured.
+148,1,I'm scared.,fear,I'm feeling brave.
+149,2,I feel nervous.,fear,I feel confident.
+150,3,I'm worried.,fear,I'm at ease.
+151,4,I don't feel safe.,fear,I feel safe and protected.
+152,5,I'm on edge.,fear,I'm grounded and steady.
+153,6,My stomach is in knots.,fear,My body feels calm.
+154,7,I feel uneasy.,fear,I feel secure.
+155,8,What if something bad happens?,fear,I trust that things will be okay.
+156,9,I'm jumpy today.,fear,I'm relaxed today.
+157,10,I can't relax.,fear,I can relax easily.
+158,11,I'm afraid of what might happen.,fear,I'm unafraid of whats ahead.
+159,12,Something feels off.,fear,Everything feels right.
+160,13,I'm dreading this.,fear,I'm embracing this moment.
+161,14,I don't know what to expect.,fear,I'm open to whatever comes.
+162,15,I feel exposed.,fear,I feel shielded and comfortable.
+163,16,I'm trying not to panic.,fear,I feel peaceful and calm.
+164,17,I can't stop worrying.,fear,I can let go of worries.
+165,18,I feel trapped.,fear,I feel free and in control.
+166,19,I just want to hide.,fear,I'm ready to face anything.
+167,20,I keep imagining the worst.,fear,I keep imagining the best.
+168,21,I keep worrying about what could go wrong.,fear,I trust that things will go well.
+169,22,"Something just doesn't feel right, and it's making me nervous.",fear,Everything feels just as it should.
+170,23,I can't relax-I feel like I'm on edge.,fear,I feel fully relaxed and balanced.
+171,24,"I don't feel safe, even if I can't explain why.",fear,"I feel secure, even if I don't know all the reasons why."
+172,25,My mind keeps jumping to worst-case scenarios.,fear,My mind keeps imagining joyful outcomes.
+173,26,"I've had this nervous feeling all day, like something's coming.",fear,"I've felt a calm certainty all day, like something good is coming."
+174,27,"There's this unease I can't shake, even if nothing's wrong.",fear,"There's a deep peace I carry, even if things are uncertain."
+175,28,"I feel like something bad might happen, even if I don't know what.",fear,I feel like something wonderful is around the corner.
+176,29,My thoughts keep jumping to the worst possibilities.,fear,My thoughts drift toward positive possibilities.
+177,30,I've been a little on edge for no clear reason.,fear,"I've been centered and calm, even with no specific reason."
+178,31,"My chest feels tight, and I can't figure out why.",fear,My chest feels light and open.
+179,32,There's this tension I'm carrying that won't go away.,fear,This tension has left me completely.
+180,33,I keep second-guessing everything I do.,fear,I trust my decisions completely.
+181,34,I'm not sure I'm ready for what's ahead.,fear,I'm prepared for whats ahead.
+182,35,"I feel exposed, like people are watching too closely.",fear,I feel safe and supported by those around me.
+183,36,I can't seem to settle my nerves.,fear,My nerves are settled.
+184,37,There's a quiet panic under the surface.,fear,Theres steady confidence under the surface.
+185,38,I feel like I'm bracing for something I can't stop.,fear,I feel open and ready.
+186,39,My thoughts feel fast and scrambled.,fear,My thoughts feel focused and clear.
+187,40,I've been avoiding things because I don't want to deal with them.,fear,I've been engaging with everything directly and easily.
+188,41,"My thoughts keep circling the worst outcomes, no matter how I try to distract myself.",fear,I'm able to move on from worries quickly.
+189,42,"There's a tension under my skin that won't release-something feels wrong, even if I can't name it.",fear,I feel a warm calm under my skin.
+190,43,"It's like my mind is locked in high alert, scanning for threats that may not be real.",fear,"My mind is relaxed, tuned to what matters most."
+191,44,My body feels frozen but my mind is sprinting ahead into panic.,fear,"My body feels still, and Im focused on peace."
+192,45,"My heart skips then races, and the hairs on my neck stand alert as the shadows shift.",fear,"My heart beats steady and slow, even in the dark."
+193,46,I can't catch a full breath; every creak in the hallway sounds like footsteps coming closer.,fear,I can breathe deeply and evenly.
+194,47,Cold sweat beads at my temples-I double-check the locks for the third time tonight.,fear,I feel protected and sure of my surroundings.
+195,48,"My stomach twists as the phone rings, certain bad news waits on the other end.",fear,I smile as I answer the phonesomething good is probably coming.
+196,49,"I freeze mid-stride, mind racing through worst-case scenarios faster than I can blink.",fear,I move forward with clarity and calm.
+197,50,"I feel small, exposed like the world knows something I don't, and it's coming for me.",fear,"I feel strong, seen, and ready."
+198,1,I didn't expect that.,surprise,I expected that.
+199,2,"Wow, really?",surprise,"Yes, I knew it."
+200,3,"Oh, I wasn't ready for that.",surprise,I was ready for this.
+201,4,That was unexpected.,surprise,That was just as planned.
+202,5,"Well, that came out of nowhere.",surprise,I saw that coming.
+203,6,I didn't see that coming.,surprise,This is exactly what I thought would happen.
+204,7,That threw me off.,surprise,That went just as I thought.
+205,8,What just happened?,surprise,Everything is going as expected.
+206,9,I'm kind of shocked.,surprise,I'm not surprised.
+207,10,"Huh, that's new.",surprise,That's familiar.
+208,11,Did that really just happen?,surprise,"Yes, that just happened like I thought it would."
+209,12,That's a twist.,surprise,That's how it usually goes.
+210,13,"Wow, I can't believe it!",surprise,I knew it would happen!
+211,14,Did not expect that reaction.,surprise,That reaction made sense.
+212,15,I'm still processing that.,surprise,I've already processed this.
+213,16,That caught me off guard.,surprise,I anticipated that.
+214,17,My jaw dropped.,surprise,Exactly what I figured.
+215,18,That was a shock.,surprise,Thats no surprise.
+216,19,I wasn't expecting things to turn out the way they did.,surprise,Things turned out just the way I expected.
+217,20,Something about today caught me off guard.,surprise,Nothing about today caught me off guard.
+218,21,That moment really shifted my focus.,surprise,That moment confirmed what I knew.
+219,22,I didn't see that coming at all.,surprise,I absolutely saw that coming.
+220,23,I'm still processing what just happened.,surprise,I'm clear on everything that just happened.
+221,24,"That threw me off, in a strange way.",surprise,That aligned with what I predicted.
+222,25,Things took a turn I wasn't ready for.,surprise,Everything went as planned.
+223,26,I had no idea that would happen today.,surprise,I knew today would go like this.
+224,27,It wasn't what I imagined at all.,surprise,Its just how I imagined.
+225,28,It came out of nowhere and changed everything.,surprise,I foresaw this change.
+226,29,That moment stopped me in my tracks.,surprise,That moment played out just as I thought.
+227,30,"I thought I knew what to expect, but I didn't.",surprise,Everything happened just how I expected.
+228,31,Everything shifted so quickly.,surprise,Things unfolded just as predicted.
+229,32,I blinked and everything felt different.,surprise,I noticed the shift coming.
+230,33,"It was one of those 'wait, what?' kind of moments.",surprise,This is all part of the plan.
+231,34,I had no idea that would happen.,surprise,I was prepared for that outcome.
+232,35,"Wait, what? I didn't see that coming at all.",surprise,This matches what I had in mind.
+233,36,That really caught me off guard.,surprise,That wasnt a surprise at all.
+234,37,I wasn't expecting that-it's kind of wild.,surprise,"Yep, that checks out."
+235,38,That threw me for a loop.,surprise,Exactly what I figured would happen.
+236,39,"I had no idea this would happen, honestly.",surprise,This happened just as I thought it might.
+237,40,A ripple of curiosity stirs in me-what just happened doesn't fit any pattern.,surprise,This was entirely predictable.
+238,41,"My thoughts stall mid-track, rewinding to make sense of what I just experienced.",surprise,What happened fits what I expected.
+239,42,Something unfamiliar jolted me out of routine-I'm unsure but intrigued.,surprise,I was tracking this all along.
+240,43,"I feel a mental double-take, like my assumptions just got rearranged.",surprise,I anticipated this completely.
+241,44,"For a moment, all I could do was blink-the unexpected scrambled my expectations.",surprise,It followed the usual pattern.
+242,45,My eyebrows shoot up and I gasp-there's a puppy with a bow waiting at my door!,surprise,I had already considered that possibility.
+243,46,I blink twice: the email says I won the scholarship I forgot I even applied for.,surprise,I planned for that.
+244,47,A laugh bursts out of me when the cake lights up with sparklers I wasn't expecting.,surprise,Im not caught off guard.
+245,48,I drop my keys as the fireworks boom overhead-wasn't there supposed to be a blackout?,surprise,That played out exactly like I thought.
+246,49,My jaw actually drops when the quiet coworker belts out a perfect aria at karaoke.,surprise,The outcome matched my expectations.
+247,1,I'm proud of myself.,pride,I'm disappointed in myself.
+248,2,That felt good to do.,pride,That didn't go well.
+249,3,I did a good job.,pride,I didn't do a good job.
+250,4,I feel confident.,pride,I feel uncertain.
+251,5,I'm happy with how I did.,pride,I'm not happy with how I did.
+252,6,I worked hard and it paid off.,pride,I worked hard but it didnt pay off.
+253,7,I feel strong today.,pride,I feel weak today.
+254,8,I earned that moment.,pride,That moment didnt feel earned.
+255,9,I know I did well.,pride,I dont think I did well.
+256,10,I'm standing tall today.,pride,Im feeling low today.
+257,11,I feel capable.,pride,I feel incapable.
+258,12,I believe in myself.,pride,Im doubting myself.
+259,13,That was a personal win.,pride,That felt like a loss.
+260,14,I'm doing better than I thought.,pride,I'm doing worse than I expected.
+261,15,That went exactly how I planned.,pride,That didnt go how I planned.
+262,16,I'm proud of my progress.,pride,I'm frustrated with my lack of progress.
+263,17,That felt like a victory.,pride,That felt like a setback.
+264,18,I held it together well.,pride,I barely held it together.
+265,19,I did what I set out to do.,pride,I didnt finish what I started.
+266,20,I feel good about how I handled that.,pride,I dont feel good about how I handled that.
+267,21,There's a quiet confidence in me right now.,pride,Im lacking confidence right now.
+268,22,I'm proud of what I've been able to do lately.,pride,Im not proud of what Ive done lately.
+269,23,"I know I put in the effort, and it shows.",pride,"I didnt put in enough effort, and it shows."
+270,24,It feels good to know I've grown.,pride,Its hard to see how Ive grown.
+271,25,"I stuck with it, and I'm glad I did.",pride,"I gave up partway, and I regret it."
+272,26,That felt like a personal win.,pride,That felt like a personal failure.
+273,27,I've earned this good feeling.,pride,I dont feel like I deserve this.
+274,28,I can hold my head up after that.,pride,Its hard to hold my head up after that.
+275,29,I feel solid in what I did.,pride,I feel uncertain about what I did.
+276,30,There's a strength in me I didn't always notice.,pride,I cant find the strength I used to have.
+277,31,That moment reminded me what I'm capable of.,pride,That moment made me question myself.
+278,32,"I didn't back down, and that matters.",pride,"I backed down, and Im still thinking about it."
+279,33,I feel like I did something meaningful.,pride,I feel like it didnt matter.
+280,34,I'm really fealing great about how I handled that.,pride,Im not proud of how I handled that.
+281,35,It feels good to know I did something right.,pride,I keep thinking about what I did wrong.
+282,36,"I've worked hard, and I can finally see the results.",pride,I dont feel like I did the right thing.
+283,37,I proved to myself that I could do it.,pride,"Ive worked hard, but I still cant see results."
+284,38,I feel confident in myself today.,pride,Im not sure I can do this.
+285,39,A deep satisfaction settles in me-like my effort finally means something real.,pride,Im doubting myself today.
+286,40,"I feel rooted in myself, quietly confident and strong.",pride,All this effort still doesnt feel worth it.
+287,41,There's a calm in knowing I've done right by my values.,pride,"I feel lost in myself, unsure and shaky."
+288,42,"My mind keeps replaying that one moment-I did it, and I did it well.",pride,Im questioning if I stayed true to my values.
+289,43,There's a resilience in me that I hadn't fully seen until now.,pride,That moment keeps replayingI couldve done better.
+290,44,I stand a little taller reading my name on the publication list; months of effort paid off.,pride,I havent shown the resilience I thought I had.
+291,45,Heat blossoms in my chest as my child shows me the award they earned on their own.,pride,"My names not on the list, and it stings."
+292,46,"I catch my reflection in the glass-sweaty, exhausted, victorious after the effort.",pride,"I smile for them, but I wish Id done better myself."
+293,47,"Ive been reflecting on the effort I put in, and Im honestly feel deserved about sticking with it even when it got tough.",pride,I avoid my reflection; I look worn out and unsure.
+294,48,"Even if nobody else sees it, I know how much Ive grown.",pride,"I stuck with it, but I wonder if it mattered."
+295,49,The crowd's applause wraps around me; I nailed every part of that performance.,pride,"I hear the applause, but I feel like I dont deserve it."
+296,1,I feel bad about it.,guilt,I feel at peace with it.
+297,2,I shouldn't have done that.,guilt,I made the right choice.
+298,3,That was my fault.,guilt,That wasnt my fault.
+299,4,I regret it.,guilt,I stand by what I did.
+300,5,I wish I had handled it better.,guilt,I handled it as best I could.
+301,6,I can't stop thinking about it.,guilt,I've moved on from that.
+302,7,I feel ashamed.,guilt,I feel proud of how I showed up.
+303,8,That didn't sit right with me.,guilt,That felt right to me.
+304,9,I messed up.,guilt,I took responsibility and grew from it.
+305,10,I shouldn't have said that.,guilt,I'm okay with what I said.
+306,11,I feel like I let them down.,guilt,I supported them the best I could.
+307,12,I owe them an apology.,guilt,They know I care.
+308,13,I feel responsible.,guilt,I took ownership and made it right.
+309,14,That haunts me a bit.,guilt,That memory doesnt weigh on me anymore.
+310,15,I can't forgive myself yet.,guilt,I've forgiven myself.
+311,16,I feel like I crossed a line.,guilt,I stayed within my values.
+312,17,I knew better.,guilt,I acted with intention.
+313,18,I should've been more careful.,guilt,I made a thoughtful choice.
+314,19,That wasn't okay.,guilt,"That was a difficult moment, but I did okay."
+315,20,"I've been thinking a lot about what I said, and I don't feel great about it.",guilt,I feel good about how I communicated.
+316,21,I wish I had done things differently.,guilt,Ive reflected and learned from it.
+317,22,It's hard not to feel bad about it.,guilt,I know I did what I could.
+318,23,That's been sitting heavy on me.,guilt,Ive let go of that burden.
+319,24,I didn't mean for it to go that way.,guilt,Ive accepted what happened.
+320,25,I let my emotions get the best of me.,guilt,I was being true to myself.
+321,26,"It wasn't fair, and I know that.",guilt,I kept calm and thoughtful.
+322,27,I keep thinking about how I messed up.,guilt,I treated them fairly.
+323,28,I know I could've handled it better.,guilt,I learned from it and moved forward.
+324,29,I feel like I let someone down.,guilt,It helped me grow.
+325,30,That moment keeps replaying in my head.,guilt,I was doing my best.
+326,31,I didn't live up to who I want to be.,guilt,I let it go with compassion.
+327,32,"That was on me, and it stings.",guilt,That moment helped define my growth.
+328,33,I owe them more than I gave.,guilt,I stayed grounded in what I believe.
+329,34,I've been carrying this quiet regret.,guilt,I know I was being honest.
+330,35,I keep thinking about it; I should've done better.,guilt,I'm proud of how Ive changed.
+331,36,I feel bad about what I said earlier.,guilt,I feel clear and centered now.
+332,37,"That was on me, and I know it.",guilt,That memory doesnt haunt me.
+333,38,I wish I could go back and fix it.,guilt,Ive made peace with how I acted.
+334,39,It's hard not to feel ashamed of how I acted.,guilt,"Even in hard times, I stayed sincere."
+335,40,The memory loops again-my chest tightens with every replay.,guilt,Ive come to terms with it.
+336,41,"Even when I smile, a thread of shame pulls at the corners of my thoughts.",guilt,I can think about it without pain.
+337,42,I keep questioning my intentions-did I really do my best?,guilt,Theres no shame in how I handled that.
+338,43,"A subtle unease clings to me, like I owe the world something I can't repay.",guilt,I see my intentions clearly now.
+339,44,I wish I could go back and act differently; my conscience won't let this rest.,guilt,Ive grown from the experience.
+340,45,My stomach knots whenever I remember snapping at her; the apology sticks in my throat.,guilt,I've forgiven myself fully.
+341,46,Sleep won't come-my mind replays the moment I lied as if on loop.,guilt,I took a breath and responded with care.
+342,47,"Every time I see his empty desk, a pang of regret punches me in the gut.",guilt,That taught me integrity.
+343,48,I avoid the mirror; I can still hear the disappointment in their voices.,guilt,My actions were aligned with what mattered most.
+344,49,The gift sits unopened where I left it; each glance is a reminder I should have been there.,guilt,They know I meant well.
+345,1,That grossed me out.,disgust,That felt inviting.
+346,2,That felt wrong.,disgust,That felt right.
+347,3,I didn't like that at all.,disgust,I really liked that.
+348,4,I want to forget that.,disgust,I want to remember that.
+349,5,That made me uncomfortable.,disgust,That made me feel comfortable.
+350,6,That was nasty.,disgust,That was lovely.
+351,7,It turned my stomach.,disgust,It felt soothing.
+352,8,Just thinking about it is awful.,disgust,Just thinking about it is delightful.
+353,9,I feel grossed out.,disgust,I feel warmly about it.
+354,10,Why would someone do that?,disgust,Why wouldnt someone do that?
+355,11,It made me cringe.,disgust,It made me smile.
+356,12,That gave me the chills.,disgust,That gave me the warm fuzzies.
+357,13,I want to scrub my brain.,disgust,I want to hold onto that moment.
+358,14,I couldn't even watch.,disgust,I couldn't look away.
+359,15,That was disturbing.,disgust,That was reassuring.
+360,16,I feel sick just thinking about it.,disgust,I feel calm just thinking about it.
+361,17,That left a bad taste in my mouth.,disgust,That left a sweet aftertaste.
+362,18,It made my skin crawl.,disgust,It gave me goosebumps in a good way.
+363,19,Just thinking about that leaves a bad taste.,disgust,Just thinking about that brings a smile.
+364,20,I can't believe how wrong that felt.,disgust,I can't believe how good that felt.
+365,21,That was uncomfortable in a way I didn't expect.,disgust,That was surprisingly comforting.
+366,22,It made me feel sick to my stomach.,disgust,It made my heart feel full.
+367,23,That memory makes me cringe a little.,disgust,That memory makes me smile a little.
+368,24,Something about that was just off.,disgust,Something about that felt so right.
+369,25,I didn't like how that made me feel.,disgust,I liked how that made me feel.
+370,26,It still bothers me to think about it.,disgust,It brings me peace to think about it.
+371,27,There's something deeply unpleasant about it.,disgust,Theres something really pleasant about it.
+372,28,I walked away from it feeling gross.,disgust,I walked away from it feeling nourished.
+373,29,It made my skin crawl a little.,disgust,It gave me a gentle tingle.
+374,30,That was not something I want to see again.,disgust,Thats something Id love to see again.
+375,31,It just felt wrong on every level.,disgust,It just felt right on every level.
+376,32,"It turned my stomach, honestly.",disgust,"It settled my stomach, honestly."
+377,33,I still feel repelled thinking about it.,disgust,I feel drawn in just thinking about it.
+378,34,I hated every second of that.,disgust,I enjoyed every second of that.
+379,35,That just makes me feel gross thinking about it.,disgust,That just makes me feel good thinking about it.
+380,36,I really don't want to be around that right now.,disgust,I really want to be near that again.
+381,37,That whole thing just felt wrong.,disgust,That whole thing just felt right.
+382,38,I couldn't look at it without cringing.,disgust,I couldnt stop looking at it.
+383,39,"The more I think about it, the more it bothers me.",disgust,"The more I think about it, the more I appreciate it."
+384,40,My mind recoils at the thought-some things just feel wrong on a core level.,disgust,My mind returns to itit just feels so good at the core.
+385,41,Even remembering it now makes me feel morally tainted.,disgust,Even remembering it now makes me feel clean and uplifted.
+386,42,I want to mentally scrub away what I just learned-it's disturbing.,disgust,I want to hold on to what I just learnedits meaningful.
+387,43,"My values feel violated, like something indecent got too close to who I am.",disgust,"My values feel affirmed, like something deeply good touched me."
+388,44,There's a repellent weight in my stomach just thinking about it.,disgust,Theres a lightness in my chest just thinking about it.
+389,45,"The sour stench hits me, and my nose wrinkles so hard my eyes water.",disgust,"The scent is comforting, and it brings a tear of joy to my eye."
+390,46,I recoil as the video shows a nest of writhing maggots in the sandwich.,disgust,"I lean in closer, drawn by the comforting warmth in the scene."
+391,47,A wave of nausea rolls over me reading the hateful comments online.,disgust,A calmness washes over me reading the uplifting comments online.
+392,48,The sticky residue on the handrail makes my skin crawl-I wipe my palm on my jeans.,disgust,The soft texture on the handrail soothes meI run my hand across again.
+393,49,"He belched loudly at the table; I pushed my plate away, appetite gone.",disgust,He smiled kindly at the table; I savored every bite of the meal.
+394,1,I feel fine.,neutral,I feel amazing.
+395,2,Nothing special going on.,neutral,So much is happening right now!
+396,3,It's just a normal day.,neutral,Today feels electric.
+397,4,I'm okay.,neutral,I'm glowing inside.
+398,5,I'm just here.,neutral,I feel fully alive.
+399,6,It's whatever.,neutral,Everything matters today.
+400,7,"Same old, same old.",neutral,Nothing feels the sameits all shifting.
+401,8,Nothing much to say.,neutral,Theres so much I want to say.
+402,9,I'm doing what I usually do.,neutral,I'm doing something new and exciting.
+403,10,It's an average kind of day.,neutral,This day is anything but average.
+404,11,I don't feel much right now.,neutral,Im full of thoughts and emotions right now.
+405,12,I'm just existing.,neutral,I feel like Im bursting with presence.
+406,13,It's been a quiet day.,neutral,This days been full of color and noise.
+407,14,I'm coasting today.,neutral,I'm soaring through today.
+408,15,"Things are fine, I guess.",neutral,Everything's happening just how I dreamed.
+409,16,No highs or lows today.,neutral,Theres been such an emotional wave today.
+410,17,I feel nothing in particular.,neutral,Im deeply feeling everything right now.
+411,18,Nothing stands out.,neutral,Every little detail is standing out to me.
+412,19,I'm just getting things done.,neutral,I'm pouring my heart into this.
+413,20,"I'm just going through the day, nothing special.",neutral,Everything feels meaningful.
+414,21,"I feel okay-not good, not bad.",neutral,I feel pulled toward the world with purpose.
+415,22,It's just a regular day for me.,neutral,Im swept up in something greater than myself.
+416,23,I'm not feeling much of anything today.,neutral,This day feels intense and charged.
+417,24,Everything's kind of just there right now.,neutral,I'm riding a wave of emotions today.
+418,25,"It's a normal, average kind of day.",neutral,Everything feels urgent and real.
+419,26,Nothing stands out about today.,neutral,This moment matters deeply.
+420,27,"I feel steady, but not much else.",neutral,I feel like Im on fireso much energy.
+421,28,It's all just routine right now.,neutral,Nothing is routine about this moment.
+422,29,"Things are quiet, inside and out.",neutral,Its noisy in the best way.
+423,30,I'm just moving through the day.,neutral,I'm being pushed and pulled by everything today.
+424,31,"I'm not bothered, but not excited either.",neutral,Theres real tension in the air.
+425,32,It's a flat kind of feeling.,neutral,Everything feels like its shifting quickly.
+426,33,"No highs or lows, just... here.",neutral,"I feel thrilled, even overwhelmed."
+427,34,"I'm okay, nothing more, nothing less.",neutral,Its been a storm of feelings today.
+428,35,"I'm just observing today, not reacting.",neutral,"So much has happened already, and its only noon."
+429,36,It's one of those 'just is' days.,neutral,Everything is stirring something deep in me.
+430,37,Nothing's really standing out right now.,neutral,I cant stop reacting to things today.
+431,38,"I'm just doing my thing, not feeling much either way.",neutral,Even the smallest thing grabs my attention.
+432,39,"My mind feels even-no highs or lows, just passing thoughts.",neutral,Everything feels alive and charged.
+433,40,"It's one of those in-between days-not bad, not good, just... there.",neutral,"I feel shaken, moved, lit up."
+434,41,Nothing really stands out-I'm going through motions on autopilot.,neutral,Im completely immersed in this moment.
+435,42,I'm present but not deeply engaged-calm and indifferent.,neutral,My body is buzzing with emotion.
+436,43,"Everything feels acceptable, like life is humming at a steady baseline.",neutral,Everything feels vivid and raw.
+437,44,I've answered a dozen emails this morning; the day is moving along as usual.,neutral,I'm in awe of how powerful this all feels.
+438,45,The sky is gray but not stormy-just another Tuesday commute.,neutral,Its chaotic but beautiful.
+439,46,"I sip water, scrolling lazily through headlines without reacting much.",neutral,"The world feels loud, emotional, and full of story."
+440,47,"My mind feels steady, neither thrilled nor bothered, simply taking note of tasks.",neutral,I havent stopped feeling for a second.
+441,48,"I file the paperwork, methodically ticking boxes and moving to the next.",neutral,Every moment hits me in a new way.
+442,49,Im not feeling anything strong right now; things are just sort of happening and Im letting them pass by.,neutral,Everything today feels like a turning point.

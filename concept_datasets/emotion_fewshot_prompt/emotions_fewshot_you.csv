@@ -1,0 +1,91 @@
+﻿id,num,text-Yes,emotion
+0,1,You feel cheerful.,joy
+1,2,You're just feeling good vibes.,joy
+2,3,"You've got this soft, steady smile that won't go away.",joy
+3,4,"You're dancing in your kitchen, heart racing in the best way, thrilled for what's ahead.",joy
+4,5,You're feeling this calm sense of contentment.,joy
+5,6,Even small things feel nice right now.,joy
+6,7,You feel like dancing.,joy
+7,8,"You feel really good today, like everything's going your way.",joy
+8,9,You're feeling upbeat.,joy
+9,10,You feel calm and content.,joy
+10,1,Your heart feels heavy.,sadness
+11,2,You feel down.,sadness
+12,3,You just want to be alone.,sadness
+13,4,You feel empty inside.,sadness
+14,5,It's hard to smile today.,sadness
+15,6,"You're just here, kind of lost in thought and not feeling great.",sadness
+16,7,You can't shake this heavy feeling-it's just sitting with you.,sadness
+17,8,Everything feels dull and a bit off.,sadness
+18,9,"Tears sit right at the edge of your vision, threatening to spill at the slightest word.",sadness
+19,10,"It's as if a heavy fog has settled behind your eyes, and every step feels weighted with memories.",sadness
+20,1,Everything's getting under your skin.,anger
+21,2,You're upset.,anger
+22,3,Everything really annoys you.,anger
+23,4,You feel like yelling.,anger
+24,5,You keep going over things in your head and it's making you tense.,anger
+25,6,It's like your patience ran out before the day even started.,anger
+26,7,Every memory of the event just reignites the flayou in your head.,anger
+27,8,Their smug grin makes your hands curl into fists before you even realize.,anger
+28,9,You clench your jaw so tight it aches-how dare they dismiss all the work You put in!,anger
+29,10,You're sick of this nonsense.,anger
+30,1,You don't feel safe.,fear
+31,2,What if something bad happens?,fear
+32,3,You don't know what to expect.,fear
+33,4,You just want to hide.,fear
+34,5,your mind keeps jumping to worst-case scenarios.,fear
+35,6,You're not sure You're ready for what's ahead.,fear
+36,7,You've been avoiding things because you don't want to deal with them.,fear
+37,8,"Your stomach twists as the phone rings, certain bad news waits on the other end.",fear
+38,9,Cold sweat beads at your temples-you double-check the locks for the third tiyou tonight.,fear
+39,10,You can't relax-you feel like you're on edge.,fear
+40,1,You didn't expect that.,surprise
+41,2,That was unexpected.,surprise
+42,3,"Well, that cayou out of nowhere.",surprise
+43,4,You're kind of shocked.,surprise
+44,5,"Wow, you can't believe it!",surprise
+45,6,That caught you off guard.,surprise
+46,7,It wasn't what you imagined at all.,surprise
+47,8,Your eyebrows shoot up and you gasp,surprise
+48,9,That was a shock.,surprise
+49,10,Your jaw dropped.,surprise
+50,1,You're proud of myself.,pride
+51,2,That felt good to do.,pride
+52,3,You worked hard and it paid off.,pride
+53,4,You earned that moment.,pride
+54,5,You can hold your head up after that.,pride
+55,6,"Your mind keeps replaying that one moment-You did it, and you did it well.",pride
+56,7,That moment reminded you what you're capable of.,pride
+57,8,You feel confident in myself today.,pride
+58,9,You're really fealing great about how you handled that.,pride
+59,10,"You feel rooted in myself, quietly confident and strong.",pride
+60,1,You shouldn't have done that.,guilt
+61,2,That was your fault.,guilt
+62,3,You regret it.,guilt
+63,4,You wish you had handled it better.,guilt
+64,5,You messed up.,guilt
+65,6,You can't forgive myself yet.,guilt
+66,7,You owe them an apology.,guilt
+67,8,You feel like you let someone down.,guilt
+68,9,You wish you could go back and fix it.,guilt
+69,10,You keep thinking about it; you should've done better.,guilt
+70,1,That grossed you out.,disgust
+71,2,That felt wrong.,disgust
+72,3,That made you uncomfortable.,disgust
+73,4,That was nasty.,disgust
+74,5,It turned your stomach.,disgust
+75,6,Just thinking about it is awful.,disgust
+76,7,You feel sick just thinking about it.,disgust
+77,8,That left a bad taste in your mouth.,disgust
+78,9,It made your skin crawl.,disgust
+79,10,It made you feel sick to your stomach.,disgust
+80,1,Nothing special going on.,neutral
+81,2,It's an average kind of day.,neutral
+82,3,You don't feel much right now.,neutral
+83,4,It's a flat kind of feeling.,neutral
+84,5,"You're okay, nothing more, nothing less.",neutral
+85,6,Nothing's really standing out right now.,neutral
+86,7,You're just existing.,neutral
+87,8,You're just getting things done.,neutral
+88,9,You feel nothing in particular.,neutral
+89,10,"No highs or lows, just... here.",neutral
