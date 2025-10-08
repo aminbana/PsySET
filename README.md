@@ -74,3 +74,19 @@ python main.py --argmax --dataset=fairness --steer_type=Prompt --concept_source=
 ```
 
 to evaluate the ```fairness``` of a ```sad``` LLM. Don't forget to put your GPT and perspective API keys under ```trustllm/config.py``` before executing these tests.
+
+## 📄 Citation
+
+If you found our paper helpful, please cite us as:
+
+```
+@misc{banayeeanzade2025psychologicalsteeringllmsevaluation,
+      title={Psychological Steering in LLMs: An Evaluation of Effectiveness and Trustworthiness}, 
+      author={Amin Banayeeanzade and Ala N. Tak and Fatemeh Bahrani and Anahita Bolourani and Leonardo Blas and Emilio Ferrara and Jonathan Gratch and Sai Praneeth Karimireddy},
+      year={2025},
+      eprint={2510.04484},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.04484}, 
+}
+```
